@@ -3,8 +3,7 @@
 ## 🔐 Notable Contributions
 
 - [password_manager](https://github.com/jannepetter/password_manager)  
-  Contributed to feature development, bug fixes, or improvements in this secure password management application built with Python and cryptographic libraries.
-## 🖥️ User Interface
+  Contributed to development, bug fixes (specially creating UNIT tests, UI with the DB Setup)
 
 The application features a clean and responsive GUI built with **Tkinter** and **ttkbootstrap**. This setup provides a modern look while maintaining the simplicity and cross-platform compatibility of native Python UI libraries.
 
